@@ -3,6 +3,8 @@
 /bin/
 /.shards/
 /samples/
+/spec/fixtures/
+.env
 *.dwarf
 
 # Libraries don't need dependency lock

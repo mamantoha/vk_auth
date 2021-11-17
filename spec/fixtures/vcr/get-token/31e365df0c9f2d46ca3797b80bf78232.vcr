@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Server: kittenx
+Date: Wed, 17 Nov 2021 09:14:03 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: close
+X-Powered-By: KPHP/7.4.109328
+Set-Cookie: remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Set-Cookie: h=1; expires=Fri, 18 Nov 2022 23:40:26 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: s=1; expires=Tue, 08 Nov 2022 15:19:41 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: l=83380724; expires=Thu, 17 Nov 2022 06:07:53 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: p=f11d5d31fddd5909acbf1bd1fe714da1e073f34e1cdc8d643ef7829d2a704; expires=Fri, 11 Nov 2022 03:01:19 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: remixq_a9433cd85a4efc10a5d27fb342428acd=457858bc6f4a2aa731; path=/; domain=.vk.com; secure; HttpOnly
+Cache-control: no-store
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Location: https://oauth.vk.com/authorize?client_id=5987497&redirect_uri=https%3A%2F%2Foauth.vk.com%2Fblank.html&response_type=token&scope=2&v=5.131&state=&display=mobile&__q_hash=a9433cd85a4efc10a5d27fb342428acd
+Strict-Transport-Security: max-age=15768000
+Content-Length: 0
+
