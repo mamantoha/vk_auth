@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Server: kittenx
+Date: Wed, 17 Nov 2021 09:14:03 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: close
+X-Powered-By: KPHP/7.4.109328
+Set-Cookie: remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Cache-control: no-store
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Location: https://oauth.vk.com/auth_redirect?app_id=5987497&authorize_url=https%253A%252F%252Foauth.vk.com%252Fblank.html%2523access_token%253Dbd9b3c9ad233efe87f5683ef8beb7016eab764a34b837417e0f693da7e853958492b3b8679c5395212440%2526expires_in%253D86400%2526user_id%253D83380724&redirect_hash=972f9e3454039f08dd
+Strict-Transport-Security: max-age=15768000
+Content-Length: 0
+
