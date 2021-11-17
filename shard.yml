@@ -9,6 +9,10 @@ dependencies:
     github: Kanezoh/mechanize.cr
     branch: master
 
+development_dependencies:
+  vcr:
+    github: spoved/vcr.cr
+
 crystal: ">= 1.0.0"
 
 authors:
