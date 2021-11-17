@@ -1,0 +1,14 @@
+name: vk_auth
+version: 0.1.0
+
+dependencies:
+  mechanize:
+    github: Kanezoh/mechanize.cr
+    branch: master
+
+    crystal: ">= 1.0.0"
+
+authors:
+  - Anton Maminov <anton.maminov@gmail.com>
+
+license: MIT
