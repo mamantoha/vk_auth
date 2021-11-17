@@ -37,4 +37,8 @@ jobs:
       - name: Install dependencies
         run: shards install
       - name: Run tests
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          EMAIL: ${{ secrets.EMAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
         run: crystal spec
