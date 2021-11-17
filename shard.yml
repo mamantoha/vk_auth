@@ -1,12 +1,15 @@
 name: vk_auth
 version: 0.1.0
 
+description: |
+  Crystal library for getting Vk Access Token without manually accessing vk.com website from the browser
+
 dependencies:
   mechanize:
     github: Kanezoh/mechanize.cr
     branch: master
 
-    crystal: ">= 1.0.0"
+crystal: ">= 1.0.0"
 
 authors:
   - Anton Maminov <anton.maminov@gmail.com>
