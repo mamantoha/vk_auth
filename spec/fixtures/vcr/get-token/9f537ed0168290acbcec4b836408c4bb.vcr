@@ -1,0 +1,19 @@
+HTTP/1.1 302 Found
+Server: kittenx
+Date: Sun, 23 Jan 2022 10:40:42 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+X-Powered-By: KPHP/7.4.109976
+Set-Cookie: remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Set-Cookie: remixlns=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure
+Set-Cookie: h=1; expires=Mon, 23 Jan 2023 10:40:42 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: s=1; expires=Mon, 23 Jan 2023 10:40:42 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: l=83380724; expires=Mon, 23 Jan 2023 10:40:42 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: p=1e8d0495c9ea56ac7028638c3eba5efc9082830544dc7a8396922cde5bdd35a48b9a6614e73c125654893; expires=Mon, 23 Jan 2023 10:40:42 GMT; path=/; domain=login.vk.com; secure; HttpOnly
+Set-Cookie: remixq_eba3f2607d7df54bd2d57d2af5825afa=40b0b04935ae30dffc; path=/; domain=.vk.com; secure; HttpOnly
+Cache-control: no-store
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Location: https://oauth.vk.com/authorize?client_id=5987497&redirect_uri=https%3A%2F%2Foauth.vk.com%2Fblank.html&response_type=token&scope=2&v=5.131&state=&display=mobile&__q_hash=eba3f2607d7df54bd2d57d2af5825afa
+Strict-Transport-Security: max-age=15768000
+Content-Length: 0
+

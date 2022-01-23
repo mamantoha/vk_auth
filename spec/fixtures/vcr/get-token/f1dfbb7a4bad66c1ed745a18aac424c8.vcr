@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Server: kittenx
+Date: Sun, 23 Jan 2022 10:40:43 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+X-Powered-By: KPHP/7.4.109976
+Set-Cookie: remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=15768000
+Content-Length: 623
+
+  <!doctype html>
+    <html lang="en">
+    <head>
+    <title>VK</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; URL=https://oauth.vk.com/blank.html#access_token=bacc4d40390d6fa83df0e2ce774c3924dffe3f1f9ad9dcd8638f4a9102ec7b8b9f128a78d28225cc1dbb6&amp;expires_in=86400&amp;user_id=83380724">
+    <script>location.href='https://oauth.vk.com/blank.html#access_token=bacc4d40390d6fa83df0e2ce774c3924dffe3f1f9ad9dcd8638f4a9102ec7b8b9f128a78d28225cc1dbb6&expires_in=86400&user_id=83380724';</script>
+    </head>
+    <body>Redirecting...</body>
+  </html>

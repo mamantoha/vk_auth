@@ -10,7 +10,7 @@ shards:
 
   mechanize:
     git: https://github.com/kanezoh/mechanize.cr.git
-    version: 0.1.0+git.commit.f44ed2eea623751060330f0064bad4b15f3533a4
+    version: 0.1.0+git.commit.e72fae85169b71b60d86c70849a42ebd986abbe7
 
   vcr:
     git: https://github.com/spoved/vcr.cr.git
