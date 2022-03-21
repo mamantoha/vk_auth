@@ -6,7 +6,7 @@ shards:
 
   lexbor:
     git: https://github.com/kostya/lexbor.git
-    version: 3.0.2
+    version: 3.0.3
 
   mechanize:
     git: https://github.com/kanezoh/mechanize.cr.git
@@ -14,5 +14,5 @@ shards:
 
   vcr:
     git: https://github.com/spoved/vcr.cr.git
-    version: 0.5.1
+    version: 0.5.2
 
