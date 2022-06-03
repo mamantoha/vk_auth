@@ -1,12 +1,13 @@
+# NOTICE: This lockfile contains some overrides from shard.override.yml
 version: 2.0
 shards:
   habitat:
     git: https://github.com/luckyframework/habitat.git
     version: 0.4.7
 
-  lexbor:
+  lexbor: # Overridden
     git: https://github.com/kostya/lexbor.git
-    version: 3.0.3
+    version: 3.0.3+git.commit.fa6e0f1024894cdbf94deebc0b764823fd138318
 
   mechanize:
     git: https://github.com/kanezoh/mechanize.cr.git

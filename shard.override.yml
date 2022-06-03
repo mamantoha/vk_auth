@@ -1,0 +1,4 @@
+dependencies:
+  lexbor:
+    github: kostya/lexbor
+    branch: master
