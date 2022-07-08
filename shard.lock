@@ -7,7 +7,7 @@ shards:
 
   lexbor: # Overridden
     git: https://github.com/kostya/lexbor.git
-    version: 3.0.3+git.commit.fa6e0f1024894cdbf94deebc0b764823fd138318
+    version: 3.0.4+git.commit.aee771672616358c8dbe6ba5bd1ab1fb83577a8d
 
   mechanize:
     git: https://github.com/kanezoh/mechanize.cr.git
