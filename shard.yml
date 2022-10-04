@@ -11,7 +11,9 @@ dependencies:
 
 development_dependencies:
   vcr:
-    github: spoved/vcr.cr
+    # github: spoved/vcr.cr
+    github: mamantoha/vcr.cr
+    branch: develop
 
 crystal: ">= 1.0.0"
 
