@@ -12,7 +12,7 @@ dependencies:
 development_dependencies:
   vcr:
     github: spoved/vcr.cr
-    versions: "0.5.3"
+    versions: ">= 0.5.3"
 
 crystal: ">= 1.0.0"
 
