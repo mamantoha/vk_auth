@@ -70,7 +70,7 @@ module Vk
       login_form.field_with("email").value = email
       login_form.field_with("pass").value = password
 
-      if (page = @agent.submit(login_form))
+      if page = @agent.submit(login_form)
         Log.debug { "Submit login form" }
 
         unless page.css(".service_msg_warning").empty?
@@ -88,7 +88,7 @@ module Vk
             # Granting Access Permissions
             Log.debug { "Submit grant permissions form" }
 
-            if (grant_permissions_page = @agent.submit(form))
+            if grant_permissions_page = @agent.submit(form)
               page = grant_permissions_page
             end
           end
@@ -102,7 +102,7 @@ module Vk
           access_url = URI.decode(authorize_url)
           access_uri = URI.parse(access_url)
 
-          if (fragment = access_uri.fragment)
+          if fragment = access_uri.fragment
             params = URI::Params.parse(fragment)
 
             @token = NamedTuple.new(
