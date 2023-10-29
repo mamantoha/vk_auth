@@ -18,7 +18,7 @@ module Vk
     REDIRECT_URI  = "https://oauth.vk.com/blank.html"
     DISPLAY       = "mobile"
     RESPONSE_TYPE = "token"
-    USER_AGENT    = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0"
+    USER_AGENT    = "Opera/9.80 (Android; Opera Mini/7.5.33942/191.308; U; en) Presto/2.12.423 Version/12.16"
 
     getter token : NamedTuple(access_token: String, expires_in: String, user_id: String)? = nil
 
