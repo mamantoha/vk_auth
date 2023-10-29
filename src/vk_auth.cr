@@ -2,7 +2,7 @@ require "log"
 require "mechanize"
 
 module Vk
-  API_VERSION = "5.131"
+  API_VERSION = "5.154"
 
   Log = ::Log.for(self)
 
