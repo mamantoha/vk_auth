@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: kittenx
+Date: Mon, 11 Dec 2023 10:22:17 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+X-Powered-By: KPHP/7.4.115285
+Set-Cookie: remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=15768000
+X-Trace-Id: KfIzJdaqWkzaLFEVEmB7K_thua4gtg
+Content-Length: 849
+
+  <!doctype html>
+    <html lang="en">
+    <head>
+    <title>VK</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; URL=https://oauth.vk.com/blank.html#access_token=vk1.a.f2vGwYBv3n3Bk8-9kpHQPZ0Af_U1QTZzdQAnqhns8TL70KxPaXijtUCokjKz9GySu43fZahCn4l5IwFIHXlin0AOJ2fXP5sqFrn16sTskncxC-zZlOQpBNHFrZF6KtnLTTBjo0Cc6uqmg0ZoAB_QKpyY0L0UWYmzGgl27LQB-hByt_HYJDJO55IcMY5-Mk1T&amp;expires_in=86400&amp;user_id=83380724">
+    <script>location.href='https://oauth.vk.com/blank.html#access_token=vk1.a.f2vGwYBv3n3Bk8-9kpHQPZ0Af_U1QTZzdQAnqhns8TL70KxPaXijtUCokjKz9GySu43fZahCn4l5IwFIHXlin0AOJ2fXP5sqFrn16sTskncxC-zZlOQpBNHFrZF6KtnLTTBjo0Cc6uqmg0ZoAB_QKpyY0L0UWYmzGgl27LQB-hByt_HYJDJO55IcMY5-Mk1T&expires_in=86400&user_id=83380724';</script>
+    </head>
+    <body>Redirecting...</body>
+  </html>

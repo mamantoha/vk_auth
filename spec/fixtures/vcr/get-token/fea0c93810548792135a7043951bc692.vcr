@@ -1,0 +1,21 @@
+HTTP/1.1 302 Found
+Server: kittenx
+Date: Mon, 11 Dec 2023 10:22:14 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+X-Powered-By: KPHP/7.4.115285
+Set-Cookie: remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Set-Cookie: remixq_59ee780463a0908a07e2a0e6b1a28c49=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure
+Set-Cookie: remixnreg_sid=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Set-Cookie: remixlns=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure
+Set-Cookie: remixnsid=vk1.a.gmZggCEVuWLjnEyR3HDA6C3P3yMsPIaf9kjvkntklYLHdUlNWKEAXonX73MSo681RRXWJh1nj_h-OlKGkeObUahZNneBSkQXNsVm_nDCqGt_yKTTGXKMjym8jdN3Cs6ZaNRHdGMXxK3fzZ4NH20bnWlbZHIq5iK98HA_28BKi6pmiOuWYgmsH5rpqkLkAUG6; expires=Fri, 06 Dec 2024 23:16:22 GMT; path=/; secure; HttpOnly
+Set-Cookie: remixsid=1_t3KXcXUciUefFNscskJ_nvgk_EXviH6Ca9RBVGdVPRaQ8E4K2wXP8fkUnMHUsw35SwXBK-droOPAF6NG2MzuoQ; expires=Wed, 11 Dec 2024 01:06:26 GMT; path=/; domain=.vk.com; secure; HttpOnly
+Set-Cookie: remixua=188%7C618%7C103%7C1139422491; expires=Mon, 09 Dec 2024 11:04:11 GMT; path=/; domain=.vk.com; secure
+Cache-control: no-store
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: sameorigin
+Location: https://login.vk.com/?act=grant_access&client_id=5987497&settings=2&response_type=token&group_ids=&token_type=0&v=5.154&display=mobile&ip_h=a3db852cf42da825d6&hash=1702290134_15b03fbb734c8c2564&https=1&state=&redirect_uri=https%3A%2F%2Foauth.vk.com%2Fblank.html
+Strict-Transport-Security: max-age=15768000
+X-Trace-Id: BOajqQdNoVFj6lR8vsoiubnAXOblew
+Content-Length: 0
+
