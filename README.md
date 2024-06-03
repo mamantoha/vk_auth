@@ -1,6 +1,6 @@
 # Vk:Auth
 
-[![Crystal CI](https://github.com/mamantoha/vk_auth/actions/workflows/crystal.yml/badge.svg)](https://github.com/mamantoha/vk_auth/actions/workflows/crystal.yml)
+[![Crystal CI](https://github.com/mamantoha/vk_auth/actions/workflows/crystal.yml/badge.svg?branch=main)](https://github.com/mamantoha/vk_auth/actions/workflows/crystal.yml)
 
 Crystal library for getting an [Access Token](https://vk.com/dev/access_token) without manually accessing [vk.com](https://vk.com) website from the browser.
 
