@@ -1,4 +1,0 @@
-dependencies:
-  mechanize:
-    github: mamantoha/mechanize.cr
-    branch: fix/set-proxy
