@@ -6,8 +6,8 @@ description: |
 
 dependencies:
   mechanize:
-    github: Kanezoh/mechanize.cr
-    branch: master
+    github: mamantoha/mechanize.cr
+    branch: develop
 
 development_dependencies:
   vcr:
